@@ -25,7 +25,7 @@ Run the app by using the command line "node app.js" in your terminal/gitbash. Th
 
 Enter all of your employee data and when you're finished, you'll have a working html fall called "team.html" in the output folder. Open this to see a display of your team. 
 
-<img href="team_image.png">
+<img src="team_image.png">
 
 
 ## Credits / Contributors
