@@ -7,14 +7,25 @@
   
 }
 
+.card-title {
+    font-size: 20px;
+}
+
+.employee-card {
+    margin: 5px;
+    width: 25%;
+}
 #interny {
     background-color: #9ED9CCFF;
+    
 }
 
 #managery {
     background-color: #FAA094FF;
+    
 }
 
 #engineery {
     background-color: #FFDDE2FF;
+    
 }
